@@ -32,22 +32,25 @@ setInterval(updateClock, 1000);
 // تحديث الساعة فور تحميل الصفحة
 updateClock();
 </script>
-<h1>GAME BASS</h1>
-<div id="yyy">
-<div id="naga"> <br></div>
-<button onclick="a()">←</button>
-<button onclick="b()">♪</button>
-<button onclick="c()">→</button>
-<script>document.getElementById('naga').textContent = '…█…'; 
+<h1><h1>GAME BASS</h1>
+<div id="yyy" style="text-align: center;">
+    <div id="naga" style="font-size: 2em; margin-bottom: 10px;">…█…</div>
+    <button onclick="a()" style="padding: 5px 10px;">◀</button>
+    <button onclick="b()" style="padding: 5px 10px;">●</button>
+    <button onclick="c()" style="padding: 5px 10px;">▶</button>
+</div>
+<script>
+    document.getElementById('naga').textContent = '…●…'; // تغيير الرمز الأولي
     function a() {
-     document.getElementById('naga').textContent = '█……';  
+        document.getElementById('naga').textContent = '◀……';
     }
     function b() {
-       document.getElementById('naga').textContent = '…♪…' ;
+        document.getElementById('naga').textContent = '…●…';
     }
     function c() {
-     document.getElementById('naga').textContent = '……'+'█';  
-    }</script></div>
+        document.getElementById('naga').textContent = '……▶';
+    }
+</script>
 <style>
     body {
         background: #ffeaea;
@@ -58,11 +61,7 @@ updateClock();
  #yyy {
      background:#00ffff;
  }
- #naga {
-     background: #000000;
-     color: #7aff00;
-     width: 30;
- }
+ 
 </style>
 <script>
     let cocoi = prompt("ماذا سنسميك What is your name?");
