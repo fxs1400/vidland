@@ -1,4 +1,4 @@
-[![نص بديل](https://fxs1400.github.io/vidland/Momo.png)](https://fxs1400.github.io/vidland)
+[![نص بديل](Momo.png)](https://fxs1400.github.io/vidland)
 هي خدمة لكي تنشر فيديو في جيب هاب او في موقع 
 النشر في 4 ماي 2025 
 الإطلاق رسمي 5 ماي 2025
