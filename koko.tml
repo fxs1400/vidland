@@ -1,0 +1,61 @@
+<a id="uou" href="">vid1:</a>
+<a id="uou" href="">vid2:</a>
+<a id="uou" href="">vid3:</a>
+<a id="uou" href="">vid4:</a>
+<a id="uou" href="">vid5:</a>
+<a id="uou" href="">vid6:</a>
+<a id="uou" href="">vid7:</a>
+<a id="uou" href="">vid8:</a>
+<a id="uou" href="">vid9:</a>
+<a id="uou" href="">vid10:</a>
+<a id="uou" href="">vid11:</a>
+<a id="uou" href="">vid12:</a>
+<a id="uou" href="">vid13:</a>
+<a id="uou" href="">vid14:</a>
+<a id="uou" href="">vid15:</a>
+<a id="uou" href="">vid16:</a>
+<a id="uou" href="">vid17:</a>
+<a id="uou" href="">vid18:</a>
+<a id="uou" href="">vid19:</a>
+<a id="uou" href="">vid20:</a>
+<a id="uou" href="">vid21:</a>
+<a id="uou" href="">vid22:</a>
+<a id="uou" href="">vid23:</a>
+<a id="uou" href="">vid24:</a>
+<a id="uou" href="">vid25:</a>
+<a id="uou" href="">vid26:</a>
+<a id="uou" href="">vid27:</a>
+<a id="uou" href="">vid28:</a>
+<a id="uou" href="">vid29:</a>
+<a id="uou" href="">vid30:</a>
+<a id="uou" href="">vid31:</a>
+<a id="uou" href="">vid23:</a>
+<a id="uou" href="">vid33:</a>
+<a id="uou" href="">vid34:</a>
+<a id="uou" href="">vid35:</a>
+<a id="uou" href="">vid36:</a>
+<a id="uou" href="">vid37:</a>
+<a id="uou" href="">vid38:</a>
+<a id="uou" href="">vid39:</a>
+<a id="uou" href="">vid40:</a>
+<a id="uou" href="">vid41:</a>
+<a id="uou" href="">vid42:</a>
+<a id="uou" href="">vid43:</a>
+<a id="uou" href="">vid44:</a>
+<a id="uou" href="">vid45:</a>
+
+<style> 
+    body {
+        background: #ffeaea;
+    }
+    #uou {
+ animation: anime 5s infinite;
+}
+
+@keyframes anime {
+ 0%  {color: #ff000a; }
+ 25% {color: #ffb200;}
+ 50% {color: #00ff57;}
+  %100 {color: #3b00ff;}
+}
+    </style>
